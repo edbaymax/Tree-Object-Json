@@ -1,6 +1,6 @@
 {
-  "name": "tree-object-json",
-  "version": "1.0.1",
+  "name": "json-tree",
+  "version": "1.1.0",
   "description": "This package gonna help you to get properties of json object",
   "main": "lib/index.js",
   "types": "lib",
@@ -9,11 +9,7 @@
     "url": "https://github.com/edbaymax/Tree-Object-Json.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p ."
-  },
-  "publishConfig": {
-    "access": "public"
   },
   "author": "Abodulaye NDIAYE <ednd78@gmail.com>",
   "license": "ISC",
